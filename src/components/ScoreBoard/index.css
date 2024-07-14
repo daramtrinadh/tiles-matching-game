@@ -1,0 +1,11 @@
+.score-board{
+    font-size: 1.5rem;
+  margin: 10px;
+  text-decoration: underline;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}

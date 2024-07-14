@@ -1,0 +1,28 @@
+.score-time{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:20px;
+    width:80%;
+    margin:auto;
+}
+.game-border{
+    border:2px solid black;
+    width:80%;
+    margin:auto;
+
+}
+.player-name{
+    margin-left:70%;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 7px;
+    margin: auto;
+    padding:20px;
+  }

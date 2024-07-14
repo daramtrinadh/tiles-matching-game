@@ -1,0 +1,20 @@
+.success-screen {
+    font-size: 2rem;
+    margin-top: 20px;
+  }
+  
+.score{
+    color:rgb(250, 195, 92);
+    font-weight: bold;
+
+}
+.play-again{
+    background-color: green;
+    border-width: 0px;
+    border-radius: 5px;
+    color:white;
+    height:40px;
+    font-size: large;
+    margin:10px;
+    cursor: pointer;
+}

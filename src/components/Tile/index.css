@@ -1,0 +1,18 @@
+.tile {
+    width: 80px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    font-size: 2rem;
+    cursor: pointer;
+    border: 1px solid black;
+  }
+  
+  @media screen and (max-width: 439px) {
+    .tile {
+      width: 50px;
+    }
+  }
+  
